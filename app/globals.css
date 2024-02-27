@@ -16,21 +16,21 @@
   }
 }
 
-body {
-  /* color: rgb(var(--foreground-rgb)); */
-  /* background: linear-gradient(
+/* body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
       to bottom,
       transparent,
       rgb(var(--background-end-rgb))
     )
-    rgb(var(--background-start-rgb)); */
-    /* background-image: radial-gradient( circle 975px at 2.6% 48.3%,  rgba(0,8,120,1) 0%, rgba(95,184,224,1) 99.7% ); */
-    /* background: linear-gradient(to bottom, #243B55, #141E30); */
-    /* background: #141E30; */
-    /* background: radial-gradient(#243B55, transparent 80%); */
-    /* background: radial-gradient(#859398, #283048); */
-    /* background-attachment: fixed; */
-}
+    rgb(var(--background-start-rgb));
+    background-image: radial-gradient( circle 975px at 2.6% 48.3%,  rgba(0,8,120,1) 0%, rgba(95,184,224,1) 99.7% );
+    background: linear-gradient(to bottom, #243B55, #141E30);
+    background: #141E30;
+    background: radial-gradient(#243B55, transparent 80%);
+    background: radial-gradient(#859398, #283048);
+    background-attachment: fixed;
+} */
 
 @layer utilities {
   .text-balance {

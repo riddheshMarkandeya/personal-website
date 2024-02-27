@@ -82,7 +82,7 @@ export default function Home() {
     return () => {
       observer.disconnect();
     };
-  }, []);
+  });
 
   return (
     <div className="grid grid-cols-1 lg:grid-cols-5 lg:grid-rows-1 gap-2 lg:p-16 px-8 pt-12 text-slate-200">
