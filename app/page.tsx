@@ -289,7 +289,7 @@ export default function Home() {
             </div>
             <div className='lg:col-span-4 md:col-span-5 pb-10'>
               <div className='pb-3'>
-                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/shors-algorithm-quantum' target='_blank'>Captain Blaster <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/Captain-Blaster' target='_blank'>Captain Blaster <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
                 </a>
               </div>
               <div className='text-slate-400 text-sm leading-relaxed pb-2'>
