@@ -132,7 +132,7 @@ export default function Home() {
             <div className='text-slate-400 text-sm lg:pr-2 md:pr-4 lg:col-span-2 md:col-span-1'>MAY &#8210; AUG 2023</div>
             <div className='lg:col-span-4 md:col-span-5 pb-10'>
               <div className='pb-3'>
-                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://www.rocketmortgage.com/' target='_blank'>Software Engineer Intern &#64; Rocket Mortgage <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://www.rocketmortgage.com/' target='_blank'>Software Engineer Intern &#64; Rocket Mortgage <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
                 </a>
               </div>
               <div className='text-slate-400 text-sm leading-relaxed pb-2'>
@@ -148,7 +148,7 @@ export default function Home() {
             <div className='text-slate-400 text-sm lg:pr-2 md:pr-4 lg:col-span-2 md:col-span-1'>JUL 2017 &#8210; DEC 2021</div>
             <div className='lg:col-span-4 md:col-span-5'>
               <div>
-                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://www.factset.com/' target='_blank'>Software Engineer III &#64; FactSet <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://www.factset.com/' target='_blank'>Software Engineer III &#64; FactSet <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
                 </a>
               </div>
               <div className='text-slate-400'>Software Engineer II</div>
@@ -164,7 +164,7 @@ export default function Home() {
             </div>
 
             <div className='text-slate-200 pt-8 font-bold lg:col-span-4 md:col-span-4'>
-              <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='/resume.pdf' target='_blank'>View Full R&#233;sum&#233; <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+              <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='/resume.pdf' target='_blank'>View Full R&#233;sum&#233; <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
               </a>
             </div>
           </div>
@@ -184,7 +184,7 @@ export default function Home() {
             </div>
             <div className='lg:col-span-4 md:col-span-5 pb-10'>
               <div className='pb-3'>
-                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/job-apply-helper' target='_blank'>Job Apply Helper <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/job-apply-helper' target='_blank'>Job Apply Helper <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
                 </a>
               </div>
               <div className='text-slate-400 text-sm leading-relaxed pb-2'>
@@ -219,7 +219,7 @@ export default function Home() {
             </div>
             <div className='lg:col-span-4 md:col-span-5 pb-10'>
               <div className='pb-3'>
-                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/2020-US-election-tweets-analysis' target='_blank'>US Election Tweets Analysis <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/2020-US-election-tweets-analysis' target='_blank'>US Election Tweets Analysis <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
                 </a>
               </div>
               <div className='text-slate-400 text-sm leading-relaxed pb-2'>
@@ -254,7 +254,7 @@ export default function Home() {
             </div>
             <div className='lg:col-span-4 md:col-span-5 pb-10'>
               <div className='pb-3'>
-                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/shors-algorithm-quantum' target='_blank'>Quantum Factorizer <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/shors-algorithm-quantum' target='_blank'>Quantum Factorizer <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
                 </a>
               </div>
               <div className='text-slate-400 text-sm leading-relaxed pb-2'>
@@ -289,7 +289,7 @@ export default function Home() {
             </div>
             <div className='lg:col-span-4 md:col-span-5 pb-10'>
               <div className='pb-3'>
-                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/Captain-Blaster' target='_blank'>Captain Blaster <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+                <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya/Captain-Blaster' target='_blank'>Captain Blaster <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
                 </a>
               </div>
               <div className='text-slate-400 text-sm leading-relaxed pb-2'>
@@ -315,7 +315,7 @@ export default function Home() {
             
 
             <div className='text-slate-200 pt-8 font-bold lg:col-span-4 md:col-span-4'>
-              <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya?tab=repositories' target='_blank'>View All Projects <span className='group-hover:pl-1 group-hover:font-bold group-focus:pl-1 group-focus:font-bold transition-all duration-400'>&#8599;</span>
+              <a className='hover:text-bluehl focus-visible:text-bluehl group transition-all duration-500' href='https://github.com/riddheshMarkandeya?tab=repositories' target='_blank'>View All Projects <span className='group-hover:pl-1 group-hover:font-bold group-focus-visible:pl-1 group-focus-visible:font-bold transition-all duration-400'>&#8599;</span>
               </a>
             </div>
           </div>
