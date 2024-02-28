@@ -87,7 +87,7 @@ export default function Home() {
   return (
     <div className="grid grid-cols-1 lg:grid-cols-5 lg:grid-rows-1 gap-2 lg:p-16 px-8 pt-12 text-slate-200">
       <aside className="lg:self-start lg:col-span-2 lg:sticky lg:top-16 lg:pt-12 lg:pl-12 lg:pr-12 lg:grid lg:grid-cols-1 lg:auto-rows-min lg:h-">
-        <p className="text-3xl font-bold"><a href='/'>Riddhesh Markandeya</a></p>
+        <p className="text-2xl lg:text-3xl md:text-3xl font-bold"><a href='/'>Riddhesh Markandeya</a></p>
         <p className="text-xl py-3">Software Engineer</p>
         <p className="text-slate-400">I'm a Software Engineer who thrives on problem-solving and loves exploring new technologies.</p>
         <ul className="py-10 font-bold md:hidden lg:block hidden text-sm">
