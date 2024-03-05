@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
+import { Analytics } from '@vercel/analytics/react';
 import { Roboto_Slab } from "next/font/google";
 import "./globals.css";
 
-// Roboto_Serif
-// Palanquin 400
 const inter = Roboto_Slab({ 
   subsets: ["latin"], 
   weight: "400"
@@ -21,7 +20,10 @@ export default function RootLayout({
 }>) {
   return (
     <html className="scroll-smooth" lang="en">
-      <body className={`${inter.className} bg-bluebg text-slate-400 selection:bg-bluehl selection:text-bluebg`}>{children}</body>
+      <body className={`${inter.className} bg-bluebg text-slate-400 selection:bg-bluehl selection:text-bluebg`}>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
